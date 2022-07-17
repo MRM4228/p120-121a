@@ -1,0 +1,9 @@
+#heading{
+    border-radius: 50;
+    font-size: 70px;
+    border-color: brown;
+    border-bottom: 10px;
+}
+body{
+    background-color: darkgray;
+}
